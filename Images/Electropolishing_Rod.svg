@@ -21,13 +21,150 @@
   <defs
      id="defs2363">
     <marker
+       style="overflow:visible"
+       id="marker5171"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path5169" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker4689"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4687"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker4529"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4527"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2162"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(1.1) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path2160" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path1782" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1648"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1646"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1530"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1528"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1418"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1416"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1276"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path1274"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <rect
+       x="22.454159"
+       y="-21.249303"
+       width="9.8440086"
+       height="7.29751"
+       id="rect2968" />
+    <marker
        inkscape:stockid="Arrow1Lend"
        orient="auto"
        refY="0.0"
        refX="0.0"
        id="marker3774"
        style="overflow:visible;"
-       inkscape:isstock="true">
+       inkscape:isstock="true"
+       inkscape:collect="always">
       <path
          id="path3772"
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
@@ -55,7 +192,8 @@
        refX="0.0"
        id="marker4773"
        style="overflow:visible"
-       inkscape:isstock="true">
+       inkscape:isstock="true"
+       inkscape:collect="always">
       <path
          id="path4771"
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
@@ -114,7 +252,8 @@
        refX="0"
        id="Arrow1Lstart-4"
        style="overflow:visible"
-       inkscape:isstock="true">
+       inkscape:isstock="true"
+       inkscape:collect="always">
       <path
          inkscape:connector-curvature="0"
          id="path3212-0"
@@ -232,6 +371,35 @@
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path4927-8" />
     </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path3212-13"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6220-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -240,15 +408,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.848424"
-     inkscape:cx="349.31752"
-     inkscape:cy="451.64133"
+     inkscape:zoom="2.3997055"
+     inkscape:cx="496.63626"
+     inkscape:cy="785.73819"
      inkscape:document-units="mm"
-     inkscape:current-layer="g3640"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1057"
-     inkscape:window-x="1912"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:document-rotation="0" />
@@ -260,7 +428,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -270,7 +438,7 @@
      id="layer1">
     <path
        style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:#280b0b;stroke-width:0.835768;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       d="m 56.153482,31.657196 v 82.292384 c 0,1.70634 1.373509,3.07984 3.079844,3.07984 h 81.344444 c 1.70634,0 3.08028,-1.3735 3.08028,-3.07984 V 31.657196 Z"
+       d="m 56.153482,60.232212 v 82.292528 c 0,1.70634 1.373509,3.07984 3.079844,3.07984 h 81.344444 c 1.70634,0 3.08028,-1.3735 3.08028,-3.07984 V 60.232212 Z"
        id="rect2914"
        inkscape:connector-curvature="0" />
     <rect
@@ -279,22 +447,22 @@
        width="4.7385082"
        height="60.968807"
        x="56.927242"
-       y="40.770264" />
+       y="69.345291" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.17258;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 91.509795,6.5126992 -0.11169,5.1376348"
+       d="m 91.509795,35.087713 -0.11169,5.137637"
        id="path2990"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.17258;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 93.060845,3.4683862 V 16.200786"
+       d="M 93.060845,32.043399 V 44.775802"
        id="path2992"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3160"
        style="font-style:normal;font-weight:normal;font-size:29.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.22113037,0,0,0.22113037,43.123518,-32.873134)"><flowRegion
+       transform="matrix(0.22113037,0,0,0.22113037,43.123518,-4.2981213)"><flowRegion
          id="flowRegion3162"
          style="font-size:29.3333px"><rect
            id="rect3164"
@@ -308,7 +476,7 @@
        xml:space="preserve"
        id="flowRoot3160-8"
        style="font-style:normal;font-weight:normal;font-size:29.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.22113037,0,0,0.22113037,52.557468,-33.25565)"><flowRegion
+       transform="matrix(0.22113037,0,0,0.22113037,52.557468,-4.6806373)"><flowRegion
          id="flowRegion3162-0"
          style="font-size:29.3333px"><rect
            id="rect3164-1"
@@ -320,7 +488,7 @@
          id="flowPara3166-3">+</flowPara></flowRoot>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.22113px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 21.866325,-2.1240263 Z"
+       d="M 21.866325,26.450984 Z"
        id="path4066"
        inkscape:connector-curvature="0" />
     <rect
@@ -329,17 +497,17 @@
        width="2.6161788"
        height="81.559341"
        x="75.158173"
-       y="35.502182" />
+       y="64.077209" />
     <rect
        style="opacity:1;fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:0.723431;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect2916-5-9-0"
        width="2.6705036"
        height="81.054733"
        x="124.12223"
-       y="35.76936" />
+       y="64.344383" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.890093;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 91.667335,9.2828376 -32.473518,-0.3359322 3e-6,36.1687086"
+       d="m 91.667335,37.857853 -32.473518,-0.335932 3e-6,36.168709"
        id="path4089"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
@@ -357,12 +525,12 @@
          id="flowPara4127" /></flowRoot>
     <path
        style="opacity:1;fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:0.835768;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       d="m 98.758565,39.865989 v 23.264453 a 1.8211435,6.8886731 0 0 1 0.64093,2.225985 l 0.005,0.02892 a 1.8211435,6.8886731 0 0 1 -0.52259,9.533224 1.8211435,6.8886731 0 0 1 -0.12353,0.275119 v 25.64119 h 4.738755 V 76.225051 a 2.2170444,7.9971963 0 0 1 -0.77957,-2.748575 2.2170444,7.9971963 0 0 1 0.74028,-10.984394 2.2170444,7.9971963 0 0 1 0.0393,-0.07689 V 39.865956 Z"
+       d="m 98.758565,68.441005 v 23.264453 a 1.8211435,6.8886731 0 0 1 0.64093,2.225985 l 0.005,0.02892 a 1.8211435,6.8886731 0 0 1 -0.52259,9.533237 1.8211435,6.8886731 0 0 1 -0.12353,0.27513 v 25.64131 h 4.738755 v -24.60995 a 2.2170444,7.9971963 0 0 1 -0.77957,-2.74859 2.2170444,7.9971963 0 0 1 0.74028,-10.984402 2.2170444,7.9971963 0 0 1 0.0393,-0.07689 V 68.440972 Z"
        id="rect2916-5-9-08"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.97367;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 93.906885,8.9469046 H 101.2974 L 101.07345,46.459346"
+       d="m 93.906885,37.52192 h 7.390515 l -0.22395,37.512442"
        id="path4091"
        inkscape:connector-curvature="0" />
     <path
@@ -370,12 +538,12 @@
        id="path4151-5"
        sodipodi:type="arc"
        sodipodi:cx="113.8984"
-       sodipodi:cy="61.290157"
+       sodipodi:cy="89.865181"
        sodipodi:rx="9.7092171"
        sodipodi:ry="3.6274378"
        sodipodi:start="0.013905425"
        sodipodi:end="3.1237743"
-       d="m 123.60668,61.340597 a 9.7092171,3.6274378 0 0 1 -9.68928,3.576991 9.7092171,3.6274378 0 0 1 -9.72668,-3.562799"
+       d="m 123.60668,89.91562 a 9.7092171,3.6274378 0 0 1 -9.68928,3.576992 9.7092171,3.6274378 0 0 1 -9.72668,-3.562799"
        sodipodi:open="true"
        sodipodi:arc-type="arc" />
     <path
@@ -383,12 +551,12 @@
        id="path4151-5-4"
        sodipodi:type="arc"
        sodipodi:cx="88.321594"
-       sodipodi:cy="61.539997"
+       sodipodi:cy="90.115021"
        sodipodi:rx="9.7092171"
        sodipodi:ry="3.6274378"
        sodipodi:start="0.013905425"
        sodipodi:end="3.1237743"
-       d="M 98.029873,61.590437 A 9.7092171,3.6274378 0 0 1 88.34059,65.167428 9.7092171,3.6274378 0 0 1 78.613918,61.604629"
+       d="m 98.029873,90.16546 a 9.7092171,3.6274378 0 0 1 -9.689283,3.576992 9.7092171,3.6274378 0 0 1 -9.726672,-3.5628"
        sodipodi:open="true"
        sodipodi:arc-type="arc" />
     <path
@@ -396,12 +564,12 @@
        id="path4151-5-2"
        sodipodi:type="arc"
        sodipodi:cx="135.1089"
-       sodipodi:cy="61.526039"
+       sodipodi:cy="90.101067"
        sodipodi:rx="7.5759616"
        sodipodi:ry="3.6274378"
        sodipodi:start="0.013905425"
        sodipodi:end="3.1237743"
-       d="m 142.68413,61.576479 a 7.5759616,3.6274378 0 0 1 -7.56041,3.576991 7.5759616,3.6274378 0 0 1 -7.58958,-3.562799"
+       d="m 142.68413,90.151506 a 7.5759616,3.6274378 0 0 1 -7.56041,3.576991 7.5759616,3.6274378 0 0 1 -7.58958,-3.562799"
        sodipodi:open="true"
        sodipodi:arc-type="arc" />
     <path
@@ -409,19 +577,19 @@
        id="path4151-5-0"
        sodipodi:type="arc"
        sodipodi:cx="68.721397"
-       sodipodi:cy="61.661793"
+       sodipodi:cy="90.236816"
        sodipodi:rx="6.341311"
        sodipodi:ry="3.6816745"
        sodipodi:start="0.013905425"
        sodipodi:end="3.1237743"
-       d="M 75.062095,61.712986 A 6.341311,3.6816745 0 0 1 68.733804,65.34346 6.341311,3.6816745 0 0 1 62.381093,61.727391"
+       d="m 75.062095,90.28801 a 6.341311,3.6816745 0 0 1 -6.328291,3.630474 6.341311,3.6816745 0 0 1 -6.352711,-3.61607"
        sodipodi:open="true"
        sodipodi:arc-type="arc" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4206"
        style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.16596715,0,0,0.22113037,75.688762,10.985792)"><flowRegion
+       transform="matrix(0.16596715,0,0,0.22113037,75.688762,39.560808)"><flowRegion
          id="flowRegion4208"><rect
            id="rect4210"
            width="99.596428"
@@ -434,7 +602,7 @@
        xml:space="preserve"
        id="flowRoot4206-8"
        style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.16596715,0,0,0.22113037,75.66311,18.346116)"><flowRegion
+       transform="matrix(0.16596715,0,0,0.22113037,75.66311,46.921132)"><flowRegion
          id="flowRegion4208-0"><rect
            id="rect4210-8"
            width="99.596428"
@@ -447,7 +615,7 @@
        xml:space="preserve"
        id="flowRoot4206-2"
        style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.16596715,0,0,0.22113037,75.66311,24.731713)"><flowRegion
+       transform="matrix(0.16596715,0,0,0.22113037,75.66311,53.306729)"><flowRegion
          id="flowRegion4208-7"><rect
            id="rect4210-6"
            width="99.596428"
@@ -460,7 +628,7 @@
        xml:space="preserve"
        id="flowRoot4206-6"
        style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.16596715,0,0,0.22113037,76.705657,34.114615)"><flowRegion
+       transform="matrix(0.16596715,0,0,0.22113037,76.705657,62.689631)"><flowRegion
          id="flowRegion4208-71"><rect
            id="rect4210-9"
            width="99.596428"
@@ -473,7 +641,7 @@
        xml:space="preserve"
        id="flowRoot4206-1"
        style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.16596715,0,0,0.22113037,75.66311,44.149073)"><flowRegion
+       transform="matrix(0.16596715,0,0,0.22113037,75.66311,72.724089)"><flowRegion
          id="flowRegion4208-8"><rect
            id="rect4210-3"
            width="99.596428"
@@ -486,7 +654,7 @@
        xml:space="preserve"
        id="flowRoot4206-5"
        style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.16596715,0,0,0.22113037,91.040675,44.018752)"><flowRegion
+       transform="matrix(0.16596715,0,0,0.22113037,91.040675,72.593768)"><flowRegion
          id="flowRegion4208-3"><rect
            id="rect4210-39"
            width="99.596428"
@@ -499,7 +667,7 @@
        xml:space="preserve"
        id="flowRoot4206-7"
        style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.16596715,0,0,0.22113037,58.461093,10.787652)"><flowRegion
+       transform="matrix(0.16596715,0,0,0.22113037,58.461093,39.362668)"><flowRegion
          id="flowRegion4208-9"><rect
            id="rect4210-63"
            width="99.596428"
@@ -512,7 +680,7 @@
        xml:space="preserve"
        id="flowRoot4206-9"
        style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.16596715,0,0,0.22113037,101.85708,11.569564)"><flowRegion
+       transform="matrix(0.16596715,0,0,0.22113037,101.85708,40.14458)"><flowRegion
          id="flowRegion4208-36"><rect
            id="rect4210-60"
            width="99.596428"
@@ -525,7 +693,7 @@
        xml:space="preserve"
        id="flowRoot4206-88"
        style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.16596715,0,0,0.22113037,101.07517,17.042933)"><flowRegion
+       transform="matrix(0.16596715,0,0,0.22113037,101.07517,45.617949)"><flowRegion
          id="flowRegion4208-35"><rect
            id="rect4210-1"
            width="99.596428"
@@ -538,7 +706,7 @@
        xml:space="preserve"
        id="flowRoot4206-4"
        style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.16596715,0,0,0.22113037,100.68422,24.080122)"><flowRegion
+       transform="matrix(0.16596715,0,0,0.22113037,100.68422,52.655138)"><flowRegion
          id="flowRegion4208-83"><rect
            id="rect4210-34"
            width="99.596428"
@@ -551,7 +719,7 @@
        xml:space="preserve"
        id="flowRoot4206-3"
        style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.16596715,0,0,0.22113037,102.639,34.37525)"><flowRegion
+       transform="matrix(0.16596715,0,0,0.22113037,102.639,62.950266)"><flowRegion
          id="flowRegion4208-07"><rect
            id="rect4210-0"
            width="99.596428"
@@ -564,7 +732,7 @@
        xml:space="preserve"
        id="flowRoot4206-75"
        style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.16596715,0,0,0.22113037,103.94218,42.976208)"><flowRegion
+       transform="matrix(0.16596715,0,0,0.22113037,103.94218,71.551224)"><flowRegion
          id="flowRegion4208-366"><rect
            id="rect4210-30"
            width="99.596428"
@@ -577,7 +745,7 @@
        xml:space="preserve"
        id="flowRoot4206-24"
        style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.16596715,0,0,0.22113037,103.29059,50.795303)"><flowRegion
+       transform="matrix(0.16596715,0,0,0.22113037,103.29059,79.370319)"><flowRegion
          id="flowRegion4208-4"><rect
            id="rect4210-83"
            width="99.596428"
@@ -590,7 +758,7 @@
        xml:space="preserve"
        id="flowRoot4206-52"
        style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.16596715,0,0,0.22113037,86.870485,48.188943)"><flowRegion
+       transform="matrix(0.16596715,0,0,0.22113037,86.870485,76.763959)"><flowRegion
          id="flowRegion4208-03"><rect
            id="rect4210-2"
            width="99.596428"
@@ -603,7 +771,7 @@
        xml:space="preserve"
        id="flowRoot4206-39"
        style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.16596715,0,0,0.22113037,124.79312,13.915293)"><flowRegion
+       transform="matrix(0.16596715,0,0,0.22113037,124.79312,42.490309)"><flowRegion
          id="flowRegion4208-33"><rect
            id="rect4210-4"
            width="99.596428"
@@ -616,7 +784,7 @@
        xml:space="preserve"
        id="flowRoot4206-42"
        style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.16596715,0,0,0.22113037,124.40216,20.300891)"><flowRegion
+       transform="matrix(0.16596715,0,0,0.22113037,124.40216,48.875907)"><flowRegion
          id="flowRegion4208-1"><rect
            id="rect4210-7"
            width="99.596428"
@@ -629,7 +797,7 @@
        xml:space="preserve"
        id="flowRoot4206-22"
        style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.16596715,0,0,0.22113037,124.0112,27.207762)"><flowRegion
+       transform="matrix(0.16596715,0,0,0.22113037,124.0112,55.782778)"><flowRegion
          id="flowRegion4208-5"><rect
            id="rect4210-48"
            width="99.596428"
@@ -642,7 +810,7 @@
        xml:space="preserve"
        id="flowRoot4206-58"
        style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.16596715,0,0,0.22113037,125.31438,34.505569)"><flowRegion
+       transform="matrix(0.16596715,0,0,0.22113037,125.31438,63.080585)"><flowRegion
          id="flowRegion4208-2"><rect
            id="rect4210-15"
            width="99.596428"
@@ -655,7 +823,7 @@
        xml:space="preserve"
        id="flowRoot4206-51"
        style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.16596715,0,0,0.22113037,124.92343,40.630498)"><flowRegion
+       transform="matrix(0.16596715,0,0,0.22113037,124.92343,69.205514)"><flowRegion
          id="flowRegion4208-14"><rect
            id="rect4210-156"
            width="99.596428"
@@ -668,7 +836,7 @@
        xml:space="preserve"
        id="flowRoot4206-18"
        style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.16596715,0,0,0.22113037,124.79312,45.191619)"><flowRegion
+       transform="matrix(0.16596715,0,0,0.22113037,124.79312,73.766635)"><flowRegion
          id="flowRegion4208-97"><rect
            id="rect4210-86"
            width="99.596428"
@@ -681,7 +849,7 @@
        xml:space="preserve"
        id="flowRoot4206-2-1"
        style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.16596715,0,0,0.22113037,57.939819,16.782296)"><flowRegion
+       transform="matrix(0.16596715,0,0,0.22113037,57.939819,45.357312)"><flowRegion
          id="flowRegion4208-7-5"><rect
            id="rect4210-6-8"
            width="99.596428"
@@ -694,7 +862,7 @@
        xml:space="preserve"
        id="flowRoot4206-2-4"
        style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.16596715,0,0,0.22113037,57.939819,24.340759)"><flowRegion
+       transform="matrix(0.16596715,0,0,0.22113037,57.939819,52.915775)"><flowRegion
          id="flowRegion4208-7-9"><rect
            id="rect4210-6-88"
            width="99.596428"
@@ -707,7 +875,7 @@
        xml:space="preserve"
        id="flowRoot4206-2-5"
        style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.16596715,0,0,0.22113037,57.418547,31.508262)"><flowRegion
+       transform="matrix(0.16596715,0,0,0.22113037,57.418547,60.083278)"><flowRegion
          id="flowRegion4208-7-1"><rect
            id="rect4210-6-1"
            width="99.596428"
@@ -720,7 +888,7 @@
        xml:space="preserve"
        id="flowRoot4206-2-3"
        style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.16596715,0,0,0.22113037,58.070138,40.109223)"><flowRegion
+       transform="matrix(0.16596715,0,0,0.22113037,58.070138,68.684239)"><flowRegion
          id="flowRegion4208-7-52"><rect
            id="rect4210-6-81"
            width="99.596428"
@@ -733,7 +901,7 @@
        xml:space="preserve"
        id="flowRoot4206-2-8"
        style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.16596715,0,0,0.22113037,54.81218,46.103843)"><flowRegion
+       transform="matrix(0.16596715,0,0,0.22113037,54.81218,74.678859)"><flowRegion
          id="flowRegion4208-7-0"><rect
            id="rect4210-6-19"
            width="99.596428"
@@ -746,7 +914,7 @@
        xml:space="preserve"
        id="flowRoot4206-2-2"
        style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.16596715,0,0,0.22113037,55.203135,51.316572)"><flowRegion
+       transform="matrix(0.16596715,0,0,0.22113037,55.203135,79.891588)"><flowRegion
          id="flowRegion4208-7-6"><rect
            id="rect4210-6-12"
            width="99.596428"
@@ -757,30 +925,30 @@
          id="flowPara4214-2-25">`</flowPara></flowRoot>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.41872;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker4773)"
-       d="m 103.9016,51.308298 8.10911,0.184304 0.1843,-47.5487949"
+       d="m 103.9016,79.883314 8.10911,0.184304 0.1843,-47.548798"
        id="path4723"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.41872;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart)"
-       d="m 127.70444,53.337251 28.4296,0.173397"
+       d="m 127.70444,81.912267 28.4296,0.173397"
        id="path4725"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.41872;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart-4)"
-       d="m 135.288,89.984144 27.87135,0.174408"
+       d="m 135.288,118.55926 27.87135,0.1744"
        id="path4725-3"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.41872;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="m 35.741267,65.655306 22.852948,0.184295"
+       d="m 35.741267,94.230322 22.852948,0.184295"
        id="path4725-4"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot6132"
        style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.22113037,0,0,0.22113037,8.8038748,-52.60954)"><flowRegion
+       transform="matrix(0.22113037,0,0,0.22113037,8.8038748,-24.034524)"><flowRegion
          id="flowRegion6134"><rect
            id="rect6136"
            width="259.7836"
@@ -795,7 +963,7 @@
        xml:space="preserve"
        id="flowRoot6142"
        style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.22113037,0,0,0.22113037,0.46350381,-50.785082)"><flowRegion
+       transform="matrix(0.22113037,0,0,0.22113037,0.46350381,-22.210066)"><flowRegion
          id="flowRegion6144"
          style="font-size:21.3333px"><rect
            id="rect6146"
@@ -810,7 +978,7 @@
        xml:space="preserve"
        id="flowRoot6152"
        style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.22113037,0,0,0.22113037,8.8038748,-52.60954)"><flowRegion
+       transform="matrix(0.22113037,0,0,0.22113037,8.8038748,-24.034524)"><flowRegion
          id="flowRegion6154"
          style="font-size:21.3333px"><rect
            id="rect6156"
@@ -824,7 +992,7 @@
        xml:space="preserve"
        id="flowRoot6132-1"
        style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.22113037,0,0,0.22113037,-75.189115,14.533892)"><flowRegion
+       transform="matrix(0.22113037,0,0,0.22113037,-70.999365,44.431987)"><flowRegion
          id="flowRegion6134-4"><rect
            id="rect6136-2"
            width="270.61761"
@@ -902,500 +1070,156 @@
            y="117.90873" /></flowRegion><flowPara
          id="flowPara2488-0-1"
          style="font-size:14.1995px" /></flowRoot>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff2a2a;stroke-width:1.29328;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.29328, 1.29328;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect2470-9"
+       width="43.844711"
+       height="120.23572"
+       x="132.82004"
+       y="151.46735"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff2a2a;stroke-width:1.38098;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.38098, 1.38098;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect2470"
+       width="103.56577"
+       height="120.23573"
+       x="29.254271"
+       y="151.46735"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <path
+       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.558141;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 147.13731,235.55913 3.59131,-14.21556 0.19173,-9.22605 c -2.24115,-5.11149 -6.32674,-2.00757 -6.75095,0.11976 l -0.1112,9.50896 2.93318,10.00504 z"
+       id="path4526-5-7-3-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <path
+       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.558142;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 161.47156,232.52689 3.59131,-11.49563 0.19173,-9.22605 c -2.24115,-5.11149 -6.32674,-2.00758 -6.75096,0.11975 l -0.11119,9.50897 c 1.37015,4.67275 1.64832,6.47125 3.07911,11.09296 z"
+       id="path4526-5-7-3-5-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0858538px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 165.29445,217.68179 c 3.19883,2.18145 5.16807,1.26702 8.0299,0.22848"
+       id="path4611-8-7-4-3-4-2-7-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0746595px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 151.12837,217.03208 c 2.42352,2.17742 5.15244,0.80858 7.32063,-0.22805"
+       id="path4611-8-7-4-3-4-2-7-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <rect
+       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.599669;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1835"
+       width="98.247589"
+       height="98.728409"
+       x="34.279903"
+       y="164.55707"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <rect
+       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.19934;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.19934, 1.19934;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1837"
+       width="98.247589"
+       height="98.728409"
+       x="34.279903"
+       y="164.55707"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <rect
+       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.19934;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.19934, 1.19934;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1839"
+       width="98.247589"
+       height="98.728409"
+       x="34.279903"
+       y="164.55707"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <rect
+       style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:#b60000;stroke-width:1.19934;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.19934, 1.19934;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1841"
+       width="100.17088"
+       height="93.759933"
+       x="34.279903"
+       y="164.55707"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0806522px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 136.73261,217.84848 v 51.09602 h 36.59174 v -51.03423"
+       id="path6481-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2602"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.19183922,0,0,0.21090893,28.866161,137.16989)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png"><flowRegion
+         id="flowRegion2604"><rect
+           id="rect2606"
+           width="370.35712"
+           height="67.213806"
+           x="31"
+           y="84.70079" /></flowRegion><flowPara
+         id="flowPara2792"
+         style="font-size:25.2411px">Step 1: Fast Shaping (CC)</flowPara></flowRoot>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0746595px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 136.73136,217.8542 c 2.42351,2.17742 5.15244,0.80857 7.32063,-0.22804"
+       id="path4611-8-7-4-3-4-2-7-9-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <flowRoot
+       transform="matrix(0.19535008,0,0,0.21529702,130.89898,136.52783)"
+       xml:space="preserve"
+       id="flowRoot2602-6"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png"><flowRegion
+         id="flowRegion2604-1"><rect
+           id="rect2606-2"
+           width="250.69135"
+           height="82.355339"
+           x="31"
+           y="84.70079" /></flowRegion><flowPara
+         id="flowPara2608-4"
+         style="font-size:24.757px">Step 2: Slow</flowPara><flowPara
+         id="flowPara2674"
+         style="font-size:24.757px">Polish (CV)</flowPara></flowRoot>
     <g
-       id="g3640"
-       transform="matrix(0.76060542,0,0,0.76060542,22.214688,25.517917)">
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot4206-2-57"
-         style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         transform="matrix(0.16596715,0,0,0.22113037,81.266797,54.835174)"><flowRegion
-           id="flowRegion4208-7-4"><rect
-             id="rect4210-6-5"
-             width="99.596428"
-             height="28.287743"
-             x="25.341103"
-             y="263.27951" /></flowRegion><flowPara
-           id="flowPara4212-7-31">~ ~ ~ ~ ~</flowPara><flowPara
-           id="flowPara4214-2-3">`</flowPara></flowRoot>
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:#ff2a2a;stroke-width:1.61331;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.61331, 1.61331;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         id="rect2470-9"
-         width="56.784317"
-         height="144.47009"
-         x="147.23415"
-         y="128.49278"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:#ff2a2a;stroke-width:1.69996;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.69996, 1.69996;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         id="rect2470"
-         width="130.35236"
-         height="144.75517"
-         x="16.787592"
-         y="128.49634"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.511865;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 46.714603,211.40689 -0.649844,31.35593 -10.616725,-0.16305 0.07376,-31.10886"
-         id="path4528-6"
-         inkscape:connector-curvature="0"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.535927;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 35.781625,197.53171 0.648884,-32.66384 10.835478,-0.0411 -0.308148,32.61265"
-         id="path4528-6-8"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccc"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.642974;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 35.521791,212.3174 c 2.962011,-4.79374 3.603366,-9.58749 0.216483,-14.38123"
-         id="path4563"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.62555;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 46.920057,197.89037 c -3.870723,5.13116 -2.266997,9.75817 -0.205454,14.34302"
-         id="path4565"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.661152;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 81.850382,219.00896 -4.633437,15.05629 -0.110018,9.86617 c 3.319006,5.03031 8.501502,1.71015 8.856242,-0.12106 v -10.1688 z"
-         id="path4526-5"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccc"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.624748;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 76.330833,199.83841 0.649843,-29.84252 10.616659,0.15517 -0.07372,29.60738"
-         id="path4528-5"
-         inkscape:connector-curvature="0"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.624748;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 67.557465,197.28871 c -2.064848,3.35909 -4.182619,6.31499 -5.378059,16.29877 -0.846385,-11.95347 -3.550803,-13.10318 -5.814789,-16.2188"
-         id="path4522-8-3"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccc"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.56283;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 62.177921,213.68729 -4.436639,11.07474 -0.108749,14.47193 c 4.65997,4.60198 7.77656,1.41347 8.754372,-0.17756 v -14.91587 z"
-         id="path4526-5-2"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccc"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.624748;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 56.364617,197.36868 0.649848,-29.84252 10.61672,0.15517 -0.07372,29.60738"
-         id="path4528-5-7"
-         inkscape:connector-curvature="0"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.131211px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 19.627041,203.30838 c 5.783177,2.81832 12.982788,2.80279 18.156691,1.46105"
-         id="path4611-8-7-4"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.163319px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 19.643872,203.30432 v 66.24603 H 135.37625 v -66.1659"
-         id="path6481"
-         inkscape:connector-curvature="0"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.690938;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 100.77191,223.33527 -4.610357,16.5259 -0.109463,10.82918 c 3.004039,6.00234 8.29076,2.36368 8.81213,-0.13287 v -11.16137 z"
-         id="path4526-5-7"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccc"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.624748;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 95.252365,204.16473 0.649848,-29.84252 10.616717,0.15517 -0.0737,29.60738"
-         id="path4528-5-2"
-         inkscape:connector-curvature="0"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.624748;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 87.523615,199.75844 c -0.255288,1.21292 -0.123411,2.61313 -0.982596,3.55457 -2.31698,2.53881 -2.728233,9.38815 -4.690637,15.69595 -2.2731,-7.24494 -1.560921,-13.70161 -4.340191,-15.86924 -0.88109,-0.68719 -0.850561,-2.1655 -1.179358,-3.30131"
-         id="path4522-8-3-2"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cscsc"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.624748;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 106.44515,204.08476 c -0.25529,1.21292 -0.12341,2.61313 -0.9826,3.55457 -0.87301,0.9566 -0.36578,3.30083 -1.99229,4.44614 -2.62587,1.84901 -1.47536,7.31872 -2.69835,11.2498 -0.982179,-2.51616 0.82117,-9.57406 -2.287153,-11.31151 -1.851183,-1.03475 -1.113566,-3.77892 -2.053031,-4.55772 -0.881091,-0.68719 -0.850564,-2.1655 -1.179361,-3.30131"
-         id="path4522-8-3-2-1"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="csscscc"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.160048px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 44.273899,203.50701 c 7.05417,3.43771 9.560582,2.17669 15.871573,0.54007"
-         id="path4611-8-7-4-5"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.113271px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 64.139061,204.03394 c 4.992451,2.43298 9.441875,1.15829 13.908356,0"
-         id="path4611-8-7-4-3"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.0866686px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 86.490555,203.4818 c 2.9906,2.37785 5.90014,1.25656 8.575673,0.12453"
-         id="path4611-8-7-4-3-4"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <path
-         style="fill:#cccccc;stroke:#000000;stroke-width:0.690938;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 117.86265,226.86055 -3.97004,16.80838 0.21497,10.82761 c 3.18249,5.90966 8.35784,2.11426 8.80419,-0.39678 l -0.33433,-11.15635 -4.33236,-11.62256 z"
-         id="path4526-5-7-3"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccccc"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.624748;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 112.3431,204.64945 0.64985,-29.84252 10.61672,0.15517 -0.0737,29.60738"
-         id="path4528-5-2-4"
-         inkscape:connector-curvature="0"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.624748;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 123.53589,204.56948 c -0.25529,1.21292 -0.12342,2.61312 -0.9826,3.55457 -0.87302,0.95659 -0.36578,3.30083 -1.99229,4.44614 -2.62587,1.84901 -1.47536,7.31871 -2.69835,11.2498 -0.98218,-2.51616 0.82117,-9.57406 -2.28716,-11.31151 -1.85118,-1.03475 -1.11356,-3.77892 -2.05303,-4.55772 -0.88109,-0.68719 -0.85056,-2.1655 -1.17936,-3.30131"
-         id="path4522-8-3-2-1-0"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="csscscc"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.0808624px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 106.5908,203.40605 c 1.99327,3.10557 3.93253,1.64114 5.71581,0.16263"
-         id="path4611-8-7-4-3-4-2"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <path
-         style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.726854;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 163.73042,226.37923 4.67687,-18.51258 0.24969,-12.01486 c -2.9186,-6.65657 -8.23917,-2.61442 -8.79161,0.15595 l -0.14481,12.3833 3.81981,13.02932 z"
-         id="path4526-5-7-3-5"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccccc"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.106575px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 123.80674,203.57086 c 3.81537,2.81832 8.11154,1.04658 11.52495,-0.29517"
-         id="path4611-8-7-4-3-4-2-7"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <path
-         style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.726855;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 182.39756,222.43041 4.67688,-14.97048 0.24968,-12.01486 c -2.91859,-6.65657 -8.23916,-2.61442 -8.79161,0.15595 l -0.1448,12.3833 c 1.78432,6.08521 2.14657,8.42735 4.00985,14.44609 z"
-         id="path4526-5-7-3-5-2"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccc"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.131211px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 188.09164,203.08753 c 5.78319,2.81832 9.34339,1.63692 14.5173,0.29518"
-         id="path4611-8-7-4-3-4-2-7-3"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.0972272px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 168.92788,202.2519 c 3.15609,2.8356 6.70989,1.05299 9.53348,-0.29698"
-         id="path4611-8-7-4-3-4-2-7-9"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <rect
-         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.780935;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         id="rect1835"
-         width="127.94547"
-         height="128.57162"
-         x="16.758934"
-         y="134.60405"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <rect
-         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.56187;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.56187, 1.56187;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         id="rect1837"
-         width="127.94547"
-         height="128.57162"
-         x="16.758934"
-         y="134.60405"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <rect
-         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.56187;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.56187, 1.56187;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         id="rect1839"
-         width="127.94547"
-         height="128.57162"
-         x="16.758934"
-         y="134.60405"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <rect
-         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:#b60000;stroke-width:1.56187;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.56187, 1.56187;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         id="rect1841"
-         width="130.45012"
-         height="122.1013"
-         x="16.758934"
-         y="134.60405"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.110155px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 150.18391,203.31688 v 66.5375 h 52.41787 v -66.45702"
-         id="path6481-2"
-         inkscape:connector-curvature="0"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot2482-4"
-         style="font-style:normal;font-weight:normal;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none"
-         transform="matrix(0.287231,0,0,0.30691909,27.774639,120.83209)"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png"><flowRegion
-           id="flowRegion2484-5"><rect
-             id="rect2486-8"
-             width="52.527931"
-             height="53.538086"
-             x="110.10663"
-             y="117.90873" /></flowRegion><flowPara
-           id="flowPara2488-3"
-           style="font-size:26.6667px">T<flowSpan
-   style="font-size:65%;baseline-shift:sub"
-   id="flowSpan2556">1</flowSpan></flowPara></flowRoot>
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot2482-3"
-         style="font-style:normal;font-weight:normal;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none"
-         transform="matrix(0.29287123,0,0,0.30691909,46.072048,121.96695)"
-         inkscape:transform-center-x="41.292882"
-         inkscape:transform-center-y="-7.1460888"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png"><flowRegion
-           id="flowRegion2484-4"><rect
-             id="rect2486-4"
-             width="52.527931"
-             height="53.538086"
-             x="110.10663"
-             y="117.90873" /></flowRegion><flowPara
-           id="flowPara2488-7"
-           style="font-size:26.6667px">T<flowSpan
-   style="font-size:65%;baseline-shift:sub"
-   id="flowSpan2558">2</flowSpan></flowPara></flowRoot>
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot2482-0"
-         style="font-style:normal;font-weight:normal;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none"
-         transform="matrix(0.26615574,0,0,0.29856103,67.466583,128.93754)"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png"><flowRegion
-           id="flowRegion2484-3"><rect
-             id="rect2486-3"
-             width="52.527931"
-             height="53.538086"
-             x="110.10663"
-             y="117.90873" /></flowRegion><flowPara
-           id="flowPara2488-8"
-           style="font-size:26.6667px">T<flowSpan
-   style="font-size:65%;baseline-shift:sub"
-   id="flowSpan2574">N</flowSpan></flowPara></flowRoot>
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot2482-2"
-         style="font-style:normal;font-weight:normal;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none"
-         transform="matrix(0.23662972,0,0,0.28523122,86.595038,130.15136)"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png"><flowRegion
-           id="flowRegion2484-1"><rect
-             id="rect2486-9"
-             width="104.04571"
-             height="53.538078"
-             x="110.10663"
-             y="117.90873" /></flowRegion><flowPara
-           id="flowPara2488-0"
-           style="font-size:26.6667px">T<flowSpan
-   style="font-size:65%;baseline-shift:sub"
-   id="flowSpan2590">drop</flowSpan></flowPara></flowRoot>
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot2602"
-         style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         transform="matrix(0.24982759,0,0,0.27466162,9.7087462,105.82967)"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png"><flowRegion
-           id="flowRegion2604"><rect
-             id="rect2606"
-             width="370.35712"
-             height="67.213806"
-             x="31"
-             y="84.70079" /></flowRegion><flowPara
-           id="flowPara2608"
-           style="font-size:25.2411px">Step 1: </flowPara><flowPara
-           id="flowPara2792"
-           style="font-size:25.2411px">Shaping</flowPara></flowRoot>
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.0972272px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 150.17899,203.32253 c 3.15609,2.8356 6.7099,1.05298 9.53348,-0.29698"
-         id="path4611-8-7-4-3-4-2-7-9-8"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
-      <flowRoot
-         transform="matrix(0.2543997,0,0,0.28037612,142.58363,105.68266)"
-         xml:space="preserve"
-         id="flowRoot2602-6"
-         style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png"><flowRegion
-           id="flowRegion2604-1"><rect
-             id="rect2606-2"
-             width="250.69135"
-             height="82.355339"
-             x="31"
-             y="84.70079" /></flowRegion><flowPara
-           id="flowPara2608-4"
-           style="font-size:24.757px">Step 2: </flowPara><flowPara
-           id="flowPara2674"
-           style="font-size:24.757px">Polishing</flowPara></flowRoot>
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot2482-4-4"
-         style="font-style:normal;font-weight:normal;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none"
-         transform="matrix(0.28723099,0,0,0.3069191,6.497823,116.75435)"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png"><flowRegion
-           id="flowRegion2484-5-6"><rect
-             id="rect2486-8-2"
-             width="52.527931"
-             height="53.538086"
-             x="110.10663"
-             y="117.90873" /></flowRegion><flowPara
-           id="flowPara2488-3-1"
-           style="font-size:26.6667px">T<flowSpan
-   style="font-size:65%;baseline-shift:sub"
-   id="flowSpan2763">0</flowSpan></flowPara></flowRoot>
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot2482-4-4-3"
-         style="font-style:normal;font-weight:normal;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none"
-         transform="matrix(0.28723099,0,0,0.3069191,128.53999,143.1582)"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png"><flowRegion
-           id="flowRegion2484-5-6-4"><rect
-             id="rect2486-8-2-1"
-             width="52.527931"
-             height="53.538086"
-             x="110.10663"
-             y="117.90873" /></flowRegion><flowPara
-           id="flowPara2488-3-1-8"
-           style="font-size:26.6667px">T<flowSpan
-   style="font-size:65%;baseline-shift:sub"
-   id="flowSpan2763-7">0</flowSpan></flowPara></flowRoot>
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot2482-2-1"
-         style="font-style:normal;font-weight:normal;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none"
-         transform="matrix(0.23662972,0,0,0.28523122,151.5386,145.04916)"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png"><flowRegion
-           id="flowRegion2484-1-7"><rect
-             id="rect2486-9-54"
-             width="104.04571"
-             height="53.538078"
-             x="110.10663"
-             y="117.90873" /></flowRegion><flowPara
-           id="flowPara2488-0-5"
-           style="font-size:26.6667px">T<flowSpan
-   style="font-size:65%;baseline-shift:sub"
-   id="flowSpan2854">polish</flowSpan></flowPara></flowRoot>
+       id="g2851"
+       transform="matrix(0.76788643,0,0,0.76788643,-4.7550017,63.430906)">
       <g
          id="g5751"
          transform="matrix(0.82190358,0,0,0.82190358,94.389501,47.203495)">
@@ -1426,22 +1250,495 @@
            sodipodi:arc-type="arc"
            d="m -37.297495,115.86454 a 1.0037541,0.92010808 0 0 1 -0.954841,0.96223 1.0037541,0.92010808 0 0 1 -1.050389,-0.87458 1.0037541,0.92010808 0 0 1 0.953338,-0.96348 1.0037541,0.92010808 0 0 1 1.051753,0.8732" />
         <path
-           style="fill:none;stroke:#000000;stroke-width:0.814551;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Send)"
+           style="fill:none;stroke:#000000;stroke-width:1.59963;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Send)"
            d="m -38.548265,116.07622 0.15191,-10.3412"
            id="path4441" />
         <path
-           style="fill:none;stroke:#000000;stroke-width:0.814551;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4929-5)"
+           style="fill:none;stroke:#000000;stroke-width:1.59963;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4929-5)"
            d="m -39.781187,116.07517 7.197488,0.12886"
            id="path4443" />
       </g>
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.61135509;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker3774)"
-         d="m 75.076845,141.36329 37.168605,0.15975"
-         id="path5966" />
     </g>
     <path
+       style="fill:none;stroke:#000000;stroke-width:0.469451;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3774)"
+       d="m 52.89549,171.9819 28.541275,0.12267"
+       id="path5966" />
+    <text
+       xml:space="preserve"
+       id="text2966"
+       style="font-style:normal;font-weight:normal;font-size:4.63812px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2968);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="matrix(1.2008335,0,0,1.2008335,44.29791,55.339941)"><tspan
+         x="22.455078"
+         y="-17.018502"><tspan>I(t)</tspan></tspan></text>
+    <rect
+       style="opacity:0.322581;fill:#000000;stroke:#000000;stroke-width:1.00957;stroke-linejoin:round;stroke-opacity:0.992157;paint-order:stroke fill markers"
+       id="rect1264"
+       width="14.179076"
+       height="20.787636"
+       x="94.041908"
+       y="57.117859"
+       ry="6.2334743" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2482-4-4-1"
+       style="font-style:normal;font-weight:normal;font-size:18.7454px;line-height:1.65;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.39207995,0,0,0.41895487,16.688215,110.58521)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png"><flowRegion
+         id="flowRegion2484-5-6-1"><rect
+           id="rect2486-8-2-2"
+           width="17.017801"
+           height="30.504827"
+           x="110.10663"
+           y="117.90873" /></flowRegion><flowPara
+         id="flowPara2488-3-1-4"
+         style="font-size:18.7454px;baseline-shift:sub">t<flowSpan
+   style="font-size:6.24848px"
+   id="flowSpan2964-4" /></flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2482-4-4-1-9"
+       style="font-style:normal;font-weight:normal;font-size:18.7454px;line-height:1.65;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.39207995,0,0,0.41895487,38.705337,28.551006)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png"><flowRegion
+         id="flowRegion2484-5-6-1-7"><rect
+           id="rect2486-8-2-2-3"
+           width="17.017801"
+           height="30.504827"
+           x="110.10663"
+           y="117.90873" /></flowRegion><flowPara
+         id="flowPara2488-3-1-4-6"
+         style="font-size:18.7454px;baseline-shift:sub">h</flowPara></flowRoot>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.267537;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.267537, 0.80261;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 101.3072,68.627269 -22.59635,0.05566"
+       id="path2810"
+       sodipodi:nodetypes="cc" />
+    <path
        style="fill:none;stroke:#000000;stroke-width:0.284212;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3652)"
-       d="m 103.49713,69.298626 h 8.06818 v 53.025604"
+       d="m 103.49713,97.873642 h 8.06818 v 53.025748"
        id="path3642" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.470749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart-8)"
+       d="m 109.34092,62.521832 39.62589,0.157241"
+       id="path4725-1"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6142-0"
+       style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.22113037,0,0,0.22113037,2.6743122,-46.792885)"><flowRegion
+         id="flowRegion6144-2"
+         style="font-size:21.3333px"><rect
+           id="rect6146-1"
+           width="167.88586"
+           height="57.241829"
+           x="666.25934"
+           y="479.89908"
+           style="font-size:21.3333px" /></flowRegion><flowPara
+         id="flowPara6148-0">Translation stage mount</flowPara><flowPara
+         id="flowPara6150-0" /></flowRoot>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.271647px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker2162);marker-end:url(#marker1276)"
+       d="M 86.695057,69.000184 V 144.93619"
+       id="path2724" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.393054;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 57.282457,225.12035 -0.499007,24.0778 -8.152439,-0.12521 0.05664,-23.88807"
+       id="path4528-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.411531;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 48.887171,214.46579 0.498269,-25.08212 8.320417,-0.0316 -0.236623,25.04281"
+       id="path4528-6-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.493731;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 48.687648,225.81952 c 2.274488,-3.68105 2.766976,-7.3621 0.166235,-11.04315"
+       id="path4563"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.480351;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 57.440222,214.7412 c -2.972276,3.94015 -1.740796,7.49317 -0.157765,11.01381"
+       id="path4565"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.50769;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 84.262745,236.24958 -3.557954,11.56152 -0.08448,7.5761 c 2.54862,3.86271 6.528188,1.3132 6.800588,-0.093 v -7.80848 z"
+       id="path4526-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.479735;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 80.024358,221.52878 0.499005,-22.91567 8.152389,0.11915 -0.05661,22.73511"
+       id="path4528-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.479735;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 73.287408,216.92505 c -1.585569,2.57939 -3.211777,4.84919 -4.129739,12.5156 -0.649927,-9.17891 -2.726613,-10.06175 -4.465097,-12.4542"
+       id="path4522-8-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.432189;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 69.156529,229.51729 -3.406835,8.50414 -0.08351,11.1128 c 3.578328,3.5338 5.971515,1.08539 6.722363,-0.13634 v -11.4537 z"
+       id="path4526-5-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.479735;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 64.692572,216.98645 0.499009,-22.91566 8.152435,0.11915 -0.05661,22.73511"
+       id="path4528-5-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.100755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 36.482285,218.90162 c 4.440824,2.16415 9.969307,2.15222 13.942277,1.12192"
+       id="path4611-8-7-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.12541px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 36.49521,218.8985 v 50.86943 h 88.86932 v -50.8079"
+       id="path6481"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.530562;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 98.792329,240.10087 -3.54023,12.69001 -0.08406,8.31558 c 2.306761,4.60912 6.366371,1.81504 6.766721,-0.10203 v -8.57066 z"
+       id="path4526-5-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.479735;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 94.553946,225.38007 0.499009,-22.91567 8.152435,0.11915 -0.0566,22.73511"
+       id="path4528-5-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.479735;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 88.619143,221.46737 c -0.196032,0.93138 -0.09476,2.00658 -0.754522,2.7295 -1.779177,1.94952 -2.094973,7.20904 -3.601876,12.05271 -1.745483,-5.56329 -1.19861,-10.52128 -3.332774,-12.18577 -0.676577,-0.52769 -0.653134,-1.66286 -0.905613,-2.53503"
+       id="path4522-8-3-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscsc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.479735;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 103.14873,225.31866 c -0.19603,0.93138 -0.0948,2.00659 -0.75452,2.72951 -0.67037,0.73456 -0.28088,2.53466 -1.52985,3.41413 -2.016374,1.41983 -1.132913,5.61994 -2.072031,8.63857 -0.754202,-1.93213 0.630566,-7.3518 -1.756274,-8.68596 -1.421498,-0.79457 -0.855092,-2.90178 -1.576494,-3.49981 -0.676578,-0.52768 -0.653137,-1.66286 -0.905615,-2.53503"
+       id="path4522-8-3-2-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csscscc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.117034px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 55.407377,219.0525 c 4.902573,2.64491 6.644501,1.67471 11.030573,0.41553"
+       id="path4611-8-7-4-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0757195px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 71.951737,219.45703 c 2.895885,1.87434 5.476786,0.89233 8.067582,0"
+       id="path4611-8-7-4-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0611686px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 88.84807,219.03479 c 1.939969,1.82591 3.827355,0.96489 5.562943,0.0956"
+       id="path4611-8-7-4-3-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <path
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.530562;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 111.91608,242.80788 -3.04854,12.90693 0.16507,8.31437 c 2.44379,4.53795 6.41787,1.62351 6.76062,-0.30468 l -0.25673,-8.56681 -3.32676,-8.92481 z"
+       id="path4526-5-7-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.479735;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 107.67769,225.75228 0.49901,-22.91567 8.15244,0.11915 -0.0566,22.73511"
+       id="path4528-5-2-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.479735;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 116.27248,225.69087 c -0.19603,0.93138 -0.0948,2.00658 -0.75452,2.72951 -0.67038,0.73455 -0.28088,2.53466 -1.52986,3.41413 -2.01637,1.41983 -1.13291,5.61993 -2.07202,8.63857 -0.75421,-1.93213 0.63056,-7.3518 -1.75628,-8.68596 -1.4215,-0.79457 -0.85509,-2.90178 -1.5765,-3.49981 -0.67657,-0.52769 -0.65313,-1.66286 -0.90561,-2.53503"
+       id="path4522-8-3-2-1-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csscscc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0620931px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 103.26058,218.97662 c 1.5306,2.38472 3.01973,1.26021 4.38909,0.12488"
+       id="path4611-8-7-4-3-4-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0818375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 116.48046,219.10317 c 2.92977,2.16415 6.22874,0.80366 8.84986,-0.22665"
+       id="path4611-8-7-4-3-4-2-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2482-4-4"
+       style="font-style:normal;font-weight:normal;font-size:18.7454px;line-height:1.65;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.39207995,0,0,0.41895487,7.8629171,127.17349)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png"><flowRegion
+         id="flowRegion2484-5-6"><rect
+           id="rect2486-8-2"
+           width="26.29771"
+           height="36.294582"
+           x="110.10663"
+           y="117.90873" /></flowRegion><flowPara
+         id="flowPara2488-3-1"
+         style="font-size:18.7454px;baseline-shift:sub"><flowSpan
+           style="font-size:19.1493px"
+           id="flowSpan4265">t</flowSpan><flowSpan
+           style="font-size:8.70422846px"
+           id="flowSpan2964">0</flowSpan></flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2482-4-4-39"
+       style="font-style:normal;font-weight:normal;font-size:18.7454px;line-height:1.65;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.39207995,0,0,0.41895487,24.345285,131.79783)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png"><flowRegion
+         id="flowRegion2484-5-6-46"><rect
+           id="rect2486-8-2-13"
+           width="21.938965"
+           height="38.531532"
+           x="110.10663"
+           y="117.90873" /></flowRegion><flowPara
+         id="flowPara2488-3-1-1"
+         style="font-size:18.7454px;baseline-shift:sub"><flowSpan
+           style="font-size:19.1493px"
+           id="flowSpan4267">t</flowSpan><flowSpan
+           style="font-size:8.70422846px;baseline-shift:sub"
+           id="flowSpan4216">1</flowSpan></flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2482-4-4-39-5"
+       style="font-style:normal;font-weight:normal;font-size:18.7454px;line-height:1.65;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.39207995,0,0,0.41895487,38.832273,136.52452)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png"><flowRegion
+         id="flowRegion2484-5-6-46-2"><rect
+           id="rect2486-8-2-13-8"
+           width="17.017801"
+           height="30.504827"
+           x="110.10663"
+           y="117.90873" /></flowRegion><flowPara
+         id="flowPara2488-3-1-1-5"
+         style="font-size:18.7454px;baseline-shift:sub"><flowSpan
+           style="font-size:19.1493px"
+           id="flowSpan4269">t</flowSpan><flowSpan
+           style="font-size:8.70422846px;baseline-shift:sub"
+           id="flowSpan4218">2</flowSpan></flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2482-4-4-39-5-9-5"
+       style="font-style:normal;font-weight:normal;font-size:18.7454px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.39207995,0,0,0.41895487,66.131914,140.39143)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png"><flowRegion
+         id="flowRegion2484-5-6-46-2-1-3"
+         style="line-height:1.65"><rect
+           id="rect2486-8-2-13-8-4-5"
+           width="54.981071"
+           height="44.452869"
+           x="110.10662"
+           y="117.90873"
+           style="stroke-width:1" /></flowRegion><flowPara
+         id="flowPara2488-3-1-1-5-0-6"
+         style="font-size:18.7454px;line-height:1.65;baseline-shift:sub"><flowSpan
+           style="font-size:19.1493px"
+           id="flowSpan4273">t</flowSpan><flowSpan
+           style="font-size:10.44507416px;line-height:1.65"
+           id="flowSpan4263">drop</flowSpan></flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2482-4-4-39-5-9-5-0"
+       style="font-style:normal;font-weight:normal;font-size:18.7454px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.39207995,0,0,0.41895487,100.16038,144.85802)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png"><flowRegion
+         id="flowRegion2484-5-6-46-2-1-3-2"
+         style="line-height:1.65"><rect
+           id="rect2486-8-2-13-8-4-5-9"
+           width="54.981071"
+           height="44.452869"
+           x="110.10662"
+           y="117.90873"
+           style="stroke-width:1" /></flowRegion><flowPara
+         id="flowPara2488-3-1-1-5-0-6-8"
+         style="font-size:18.7454px;line-height:1.65;baseline-shift:sub"><flowSpan
+           style="font-size:19.1493px"
+           id="flowSpan4273-1">t</flowSpan><flowSpan
+           id="flowSpan4425"
+           style="font-size:10.44507416px;baseline-shift:sub">pol</flowSpan></flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2482-4-4-39-5-9-5-0-7"
+       style="font-style:normal;font-weight:normal;font-size:18.7454px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.39207995,0,0,0.41895487,115.4706,144.7326)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png"><flowRegion
+         id="flowRegion2484-5-6-46-2-1-3-2-6"
+         style="line-height:1.65"><rect
+           id="rect2486-8-2-13-8-4-5-9-4"
+           width="54.981071"
+           height="44.452869"
+           x="110.10662"
+           y="117.90873"
+           style="stroke-width:1" /></flowRegion><flowPara
+         id="flowPara2488-3-1-1-5-0-6-8-5"
+         style="font-size:18.7454px;line-height:1.65;baseline-shift:sub"><flowSpan
+           style="font-size:19.1493px"
+           id="flowSpan4273-1-9">t</flowSpan><flowSpan
+           id="flowSpan4469"
+           style="font-size:10.44507416px;baseline-shift:sub">end</flowSpan></flowPara></flowRoot>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.33, 0.665;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 49.385439,189.38367 -15.977693,-0.0946"
+       id="path4513" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.33, 0.665;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 65.191581,194.07079 H 34.620567"
+       id="path4515" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 37.206542,200.53277 v -5.69131"
+       id="path4519" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend-0)"
+       d="m 37.422327,182.5172 v 5.69131"
+       id="path4519-1" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2482-4-4-1-9-3"
+       style="font-style:normal;font-weight:normal;font-size:13.9268px;line-height:1.65;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.39207995,0,0,0.41895487,-4.2122947,142.89968)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png"><flowRegion
+         id="flowRegion2484-5-6-1-7-0"><rect
+           id="rect2486-8-2-2-3-5"
+           width="26.164679"
+           height="20.828173"
+           x="110.10662"
+           y="117.90873"
+           style="stroke-width:1" /></flowRegion><flowPara
+         id="flowPara2488-3-1-4-6-5"
+         style="font-size:13.9268px;baseline-shift:sub">Δh</flowPara></flowRoot>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.268288px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker1648);marker-end:url(#marker4529)"
+       d="m 115.53901,255.14634 h 14.75863 v -40.48691 h 12.93099"
+       id="path5161" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52777px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="153.25665"
+       y="187.98747"
+       id="text5523"><tspan
+         sodipodi:role="line"
+         id="tspan5521"
+         x="153.25665"
+         y="187.98747"
+         style="stroke-width:0.264583">`</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2482-4-4-39-5-6"
+       style="font-style:normal;font-weight:normal;font-size:18.7454px;line-height:1.65;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.39207995,0,0,0.41895487,53.626157,139.49238)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png"><flowRegion
+         id="flowRegion2484-5-6-46-2-5"><rect
+           id="rect2486-8-2-13-8-1"
+           width="29.024544"
+           height="33.287102"
+           x="110.10663"
+           y="117.90873" /></flowRegion><flowPara
+         id="flowPara2488-3-1-1-5-9"
+         style="font-size:18.7454px;baseline-shift:sub"><flowSpan
+           style="font-size:19.1493px"
+           id="flowSpan4269-1">t</flowSpan><flowSpan
+           id="flowSpan5579"
+           style="font-size:10.44507416px;baseline-shift:sub">n</flowSpan></flowPara></flowRoot>
   </g>
 </svg>
