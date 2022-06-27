@@ -937,11 +937,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.8648872"
-     inkscape:cx="746.48296"
-     inkscape:cy="508.76213"
+     inkscape:zoom="1.7297744"
+     inkscape:cx="982.5734"
+     inkscape:cy="390.51297"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="g23968"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -965,8 +965,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     style="mix-blend-mode:normal"
-     sodipodi:insensitive="true">
+     style="mix-blend-mode:normal">
     <text
        xml:space="preserve"
        id="text2966-9"
@@ -2106,7 +2105,7 @@
          xml:space="preserve"
          id="flowRoot2482-4-4-39-5-9-5-0"
          style="font-style:normal;font-weight:normal;font-size:18.7454px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none"
-         transform="matrix(0.39207995,0,0,0.41895487,259.05955,21.723712)"
+         transform="matrix(0.39207995,0,0,0.41895487,262.00958,22.903722)"
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96"
          inkscape:export-filename="C:\Users\nikot\Desktop\Work\Needle_electrodes_for_ion_traps\Images\needle recipe.png"><flowRegion
@@ -2123,7 +2122,7 @@
              style="font-size:19.1493px"
              id="flowSpan4273-1">T</flowSpan><flowSpan
              id="flowSpan4425"
-             style="font-size:10.4451px;baseline-shift:sub">polish</flowSpan></flowPara></flowRoot>
+             style="font-size:10.4451px;baseline-shift:sub">pol</flowSpan></flowPara></flowRoot>
       <path
          style="fill:none;stroke:#000000;stroke-width:0.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.33, 0.665;stroke-dashoffset:0;stroke-opacity:1"
          d="m 205.22288,68.800801 -15.9777,-0.0946"
@@ -2199,6 +2198,10 @@
            x="76.539062"
            y="160.07438"><tspan
              style="fill:#7a8b93;fill-opacity:1;stroke:#000000">Rod converted to needle after</tspan></tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.25554573;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker4084);marker-start:url(#marker4985)"
+         d="m 303.2349,86.491864 h 15.48765"
+         id="path1770" />
     </g>
     <image
        width="278.88635"
